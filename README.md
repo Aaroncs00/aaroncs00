@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Aaron:
 I am currently studying programming and working night shifts in the security field at private office facilities.<br>I am highly interested in collaborating on real-world projects, learning from other developers, and exploring opportunities at companies where I can continue growing as a programmer.<br><br>I adapt quickly, learn by doing, and place strong value on well-structured code and good development practices.<br>Feel free to ask me anything — I am always open to discussion and continuous improvement.<br><br>☕ Fun fact<br><br>I work at night and code during the day — coffee is basically part of my tech stack.
 
 
